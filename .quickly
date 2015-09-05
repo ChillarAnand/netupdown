@@ -1,0 +1,4 @@
+project = netupdown
+version = 12.08.1
+template = ubuntu-cli
+version_ubuntu-application = 12.08.1
